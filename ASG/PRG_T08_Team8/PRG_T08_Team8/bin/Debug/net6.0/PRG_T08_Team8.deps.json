@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PRG_T08_Team8/1.0.0": {
+        "runtime": {
+          "PRG_T08_Team8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRG_T08_Team8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
