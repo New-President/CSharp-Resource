@@ -1,0 +1,14 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\bin\Debug\netcoreapp3.1\SavingsAccount.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\bin\Debug\netcoreapp3.1\SavingsAccount.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\bin\Debug\netcoreapp3.1\SavingsAccount.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\bin\Debug\netcoreapp3.1\SavingsAccount.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\bin\Debug\netcoreapp3.1\SavingsAccount.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\bin\Debug\netcoreapp3.1\SavingsAccount.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\obj\Debug\netcoreapp3.1\SavingsAccount.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\obj\Debug\netcoreapp3.1\SavingsAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\obj\Debug\netcoreapp3.1\SavingsAccount.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\obj\Debug\netcoreapp3.1\SavingsAccount.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\obj\Debug\netcoreapp3.1\SavingsAccount.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\obj\Debug\netcoreapp3.1\SavingsAccount.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\obj\Debug\netcoreapp3.1\SavingsAccount.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\SavingsAccount\SavingsAccount\obj\Debug\netcoreapp3.1\SavingsAccount.genruntimeconfig.cache

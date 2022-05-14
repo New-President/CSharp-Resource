@@ -1,0 +1,14 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\bin\Debug\netcoreapp3.1\CashCard + MemberCashCard.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\bin\Debug\netcoreapp3.1\CashCard + MemberCashCard.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\bin\Debug\netcoreapp3.1\CashCard + MemberCashCard.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\bin\Debug\netcoreapp3.1\CashCard + MemberCashCard.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\bin\Debug\netcoreapp3.1\CashCard + MemberCashCard.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\bin\Debug\netcoreapp3.1\CashCard + MemberCashCard.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\obj\Debug\netcoreapp3.1\CashCard + MemberCashCard.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\obj\Debug\netcoreapp3.1\CashCard + MemberCashCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\obj\Debug\netcoreapp3.1\CashCard + MemberCashCard.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\obj\Debug\netcoreapp3.1\CashCard + MemberCashCard.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\obj\Debug\netcoreapp3.1\CashCard + MemberCashCard.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\obj\Debug\netcoreapp3.1\CashCard + MemberCashCard.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\obj\Debug\netcoreapp3.1\CashCard + MemberCashCard.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Tutorial\CashCard + MemberCashCard\CashCard + MemberCashCard\obj\Debug\netcoreapp3.1\CashCard + MemberCashCard.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oHkMX2gko/i1hjYVNek5gZ4GOWYFJJeO33X6Qe6nP9kCv9n4b1GwxMHIot8w/GlklHtASfVnVfpm80FACAJ1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ziren\\OneDrive - Ngee Ann Polytechnic\\Desktop\\School\\Y1S2\\PRG2\\Wk 7\\Practical\\S10219524_ShapeApp\\S10219524_ShapeApp\\S10219524_ShapeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziren\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\ziren\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ziren\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ziren\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

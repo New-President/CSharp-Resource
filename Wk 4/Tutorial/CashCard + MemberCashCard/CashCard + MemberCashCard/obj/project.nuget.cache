@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "++fpLd87IQ4irCJP5oALNYct1ETkyKwV3Nz+w/BEfIpCUQomgiydch1EksQRdO/UrkZg9tewJHN0i0YhHsigyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ziren\\OneDrive - Ngee Ann Polytechnic\\Desktop\\School\\Y1S2\\PRG2\\Wk 4\\Tutorial\\CashCard + MemberCashCard\\CashCard + MemberCashCard\\CashCard + MemberCashCard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziren\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

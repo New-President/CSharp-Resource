@@ -1,0 +1,14 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\bin\Debug\netcoreapp3.1\PointApp.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\bin\Debug\netcoreapp3.1\PointApp.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\bin\Debug\netcoreapp3.1\PointApp.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\bin\Debug\netcoreapp3.1\PointApp.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\bin\Debug\netcoreapp3.1\PointApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\bin\Debug\netcoreapp3.1\PointApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\obj\Debug\netcoreapp3.1\PointApp.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\obj\Debug\netcoreapp3.1\PointApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\obj\Debug\netcoreapp3.1\PointApp.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\obj\Debug\netcoreapp3.1\PointApp.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\obj\Debug\netcoreapp3.1\PointApp.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\obj\Debug\netcoreapp3.1\PointApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\obj\Debug\netcoreapp3.1\PointApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\PointApp\PointApp\obj\Debug\netcoreapp3.1\PointApp.genruntimeconfig.cache

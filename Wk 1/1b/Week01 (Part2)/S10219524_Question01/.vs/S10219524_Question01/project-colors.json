@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37853e57-27f0-4a21-82b6-d2de64d79bb3": {
+      "ProjectGuid": "37853e57-27f0-4a21-82b6-d2de64d79bb3",
+      "DisplayName": "S10219524_Question01",
+      "ColorIndex": 0
+    },
+    "ccd6fd1a-f5c5-4ce1-bec2-e8fd3dceb099": {
+      "ProjectGuid": "ccd6fd1a-f5c5-4ce1-bec2-e8fd3dceb099",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

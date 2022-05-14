@@ -1,0 +1,14 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\bin\Debug\netcoreapp3.1\S10219524_CashCardApp.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\bin\Debug\netcoreapp3.1\S10219524_CashCardApp.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\bin\Debug\netcoreapp3.1\S10219524_CashCardApp.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\bin\Debug\netcoreapp3.1\S10219524_CashCardApp.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\bin\Debug\netcoreapp3.1\S10219524_CashCardApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\bin\Debug\netcoreapp3.1\S10219524_CashCardApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\obj\Debug\netcoreapp3.1\S10219524_CashCardApp.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\obj\Debug\netcoreapp3.1\S10219524_CashCardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\obj\Debug\netcoreapp3.1\S10219524_CashCardApp.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\obj\Debug\netcoreapp3.1\S10219524_CashCardApp.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\obj\Debug\netcoreapp3.1\S10219524_CashCardApp.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\obj\Debug\netcoreapp3.1\S10219524_CashCardApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\obj\Debug\netcoreapp3.1\S10219524_CashCardApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Practical\Week03\S10219524_CashCardApp\S10219524_CashCardApp\obj\Debug\netcoreapp3.1\S10219524_CashCardApp.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\bin\Debug\netcoreapp3.1\RectangleApp.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\bin\Debug\netcoreapp3.1\RectangleApp.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\bin\Debug\netcoreapp3.1\RectangleApp.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\bin\Debug\netcoreapp3.1\RectangleApp.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\bin\Debug\netcoreapp3.1\RectangleApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\bin\Debug\netcoreapp3.1\RectangleApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\obj\Debug\netcoreapp3.1\RectangleApp.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\obj\Debug\netcoreapp3.1\RectangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\obj\Debug\netcoreapp3.1\RectangleApp.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\obj\Debug\netcoreapp3.1\RectangleApp.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\obj\Debug\netcoreapp3.1\RectangleApp.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\obj\Debug\netcoreapp3.1\RectangleApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\obj\Debug\netcoreapp3.1\RectangleApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 3\Tutorial\RectangleApp\RectangleApp\obj\Debug\netcoreapp3.1\RectangleApp.genruntimeconfig.cache

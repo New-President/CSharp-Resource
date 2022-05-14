@@ -1,0 +1,14 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\bin\Debug\netcoreapp3.1\PosApp.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\bin\Debug\netcoreapp3.1\PosApp.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\bin\Debug\netcoreapp3.1\PosApp.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\bin\Debug\netcoreapp3.1\PosApp.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\bin\Debug\netcoreapp3.1\PosApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\bin\Debug\netcoreapp3.1\PosApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\obj\Debug\netcoreapp3.1\PosApp.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\obj\Debug\netcoreapp3.1\PosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\obj\Debug\netcoreapp3.1\PosApp.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\obj\Debug\netcoreapp3.1\PosApp.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\obj\Debug\netcoreapp3.1\PosApp.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\obj\Debug\netcoreapp3.1\PosApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\obj\Debug\netcoreapp3.1\PosApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\PosApp\PosApp\obj\Debug\netcoreapp3.1\PosApp.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\bin\Debug\netcoreapp3.1\POIApp_S10219524.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\bin\Debug\netcoreapp3.1\attractions(1).csv
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\bin\Debug\netcoreapp3.1\POIApp_S10219524.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\bin\Debug\netcoreapp3.1\POIApp_S10219524.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\bin\Debug\netcoreapp3.1\POIApp_S10219524.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\bin\Debug\netcoreapp3.1\POIApp_S10219524.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\bin\Debug\netcoreapp3.1\POIApp_S10219524.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\obj\Debug\netcoreapp3.1\POIApp_S10219524.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\obj\Debug\netcoreapp3.1\POIApp_S10219524.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\obj\Debug\netcoreapp3.1\POIApp_S10219524.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\obj\Debug\netcoreapp3.1\POIApp_S10219524.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\obj\Debug\netcoreapp3.1\POIApp_S10219524.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\obj\Debug\netcoreapp3.1\POIApp_S10219524.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\obj\Debug\netcoreapp3.1\POIApp_S10219524.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Revision Test\POIApp_S10219524\POIApp_S10219524\obj\Debug\netcoreapp3.1\POIApp_S10219524.genruntimeconfig.cache

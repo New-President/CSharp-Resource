@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad66d866-6a07-40c0-b4f6-4b522969bb7e": {
+      "ProjectGuid": "ad66d866-6a07-40c0-b4f6-4b522969bb7e",
+      "DisplayName": "BookApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

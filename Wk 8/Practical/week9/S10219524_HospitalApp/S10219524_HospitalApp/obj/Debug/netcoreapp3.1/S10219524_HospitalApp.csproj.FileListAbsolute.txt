@@ -1,0 +1,16 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\bin\Debug\netcoreapp3.1\S10219524_HospitalApp.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\bin\Debug\netcoreapp3.1\Patients(4).csv
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\bin\Debug\netcoreapp3.1\PatientsToDoctor(3).csv
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\bin\Debug\netcoreapp3.1\S10219524_HospitalApp.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\bin\Debug\netcoreapp3.1\S10219524_HospitalApp.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\bin\Debug\netcoreapp3.1\S10219524_HospitalApp.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\bin\Debug\netcoreapp3.1\S10219524_HospitalApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\bin\Debug\netcoreapp3.1\S10219524_HospitalApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\obj\Debug\netcoreapp3.1\S10219524_HospitalApp.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\obj\Debug\netcoreapp3.1\S10219524_HospitalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\obj\Debug\netcoreapp3.1\S10219524_HospitalApp.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\obj\Debug\netcoreapp3.1\S10219524_HospitalApp.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\obj\Debug\netcoreapp3.1\S10219524_HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\obj\Debug\netcoreapp3.1\S10219524_HospitalApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\obj\Debug\netcoreapp3.1\S10219524_HospitalApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\week9\S10219524_HospitalApp\S10219524_HospitalApp\obj\Debug\netcoreapp3.1\S10219524_HospitalApp.genruntimeconfig.cache

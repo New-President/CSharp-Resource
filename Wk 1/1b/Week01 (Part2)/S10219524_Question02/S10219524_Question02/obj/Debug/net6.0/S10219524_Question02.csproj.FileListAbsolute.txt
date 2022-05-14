@@ -1,0 +1,17 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\bin\Debug\net6.0\S10219524_Question02.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\bin\Debug\net6.0\loaninfo(2).csv
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\bin\Debug\net6.0\S10219524_Question02.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\bin\Debug\net6.0\S10219524_Question02.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\bin\Debug\net6.0\S10219524_Question02.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\bin\Debug\net6.0\ref\S10219524_Question02.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\bin\Debug\net6.0\S10219524_Question02.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\obj\Debug\net6.0\S10219524_Question02.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\obj\Debug\net6.0\S10219524_Question02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\obj\Debug\net6.0\S10219524_Question02.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\obj\Debug\net6.0\S10219524_Question02.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\obj\Debug\net6.0\S10219524_Question02.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\obj\Debug\net6.0\S10219524_Question02.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\obj\Debug\net6.0\ref\S10219524_Question02.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\obj\Debug\net6.0\S10219524_Question02.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\obj\Debug\net6.0\S10219524_Question02.genruntimeconfig.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Week01 (Part2)\S10219524_Question02\S10219524_Question02\bin\Debug\net6.0\overdueinfo.csv

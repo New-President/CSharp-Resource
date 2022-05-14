@@ -1,0 +1,15 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\bin\Debug\netcoreapp3.1\Activity2.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\bin\Debug\netcoreapp3.1\StudentMarks.csv
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\bin\Debug\netcoreapp3.1\Activity2.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\bin\Debug\netcoreapp3.1\Activity2.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\bin\Debug\netcoreapp3.1\Activity2.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\bin\Debug\netcoreapp3.1\Activity2.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\bin\Debug\netcoreapp3.1\Activity2.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\obj\Debug\netcoreapp3.1\Activity2.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\obj\Debug\netcoreapp3.1\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\obj\Debug\netcoreapp3.1\Activity2.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\obj\Debug\netcoreapp3.1\Activity2.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\obj\Debug\netcoreapp3.1\Activity2.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\obj\Debug\netcoreapp3.1\Activity2.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\obj\Debug\netcoreapp3.1\Activity2.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 2\Tutorial\Activity2\Activity2\obj\Debug\netcoreapp3.1\Activity2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\bin\Debug\netcoreapp3.1\S10219524_ShippingApp.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\bin\Debug\netcoreapp3.1\S10219524_ShippingApp.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\bin\Debug\netcoreapp3.1\S10219524_ShippingApp.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\bin\Debug\netcoreapp3.1\S10219524_ShippingApp.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\bin\Debug\netcoreapp3.1\S10219524_ShippingApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\bin\Debug\netcoreapp3.1\S10219524_ShippingApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\obj\Debug\netcoreapp3.1\S10219524_ShippingApp.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\obj\Debug\netcoreapp3.1\S10219524_ShippingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\obj\Debug\netcoreapp3.1\S10219524_ShippingApp.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\obj\Debug\netcoreapp3.1\S10219524_ShippingApp.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\obj\Debug\netcoreapp3.1\S10219524_ShippingApp.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\obj\Debug\netcoreapp3.1\S10219524_ShippingApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\obj\Debug\netcoreapp3.1\S10219524_ShippingApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 8\Practical\Week08\S10219524_ShippingApp\S10219524_ShippingApp\obj\Debug\netcoreapp3.1\S10219524_ShippingApp.genruntimeconfig.cache

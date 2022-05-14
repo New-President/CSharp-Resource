@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7aed92b-bd88-4466-8220-521124aaece7": {
+      "ProjectGuid": "a7aed92b-bd88-4466-8220-521124aaece7",
+      "DisplayName": "SavingsAccount",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

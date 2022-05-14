@@ -1,0 +1,14 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\bin\Debug\netcoreapp3.1\S10219524_MyShapeApp.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\bin\Debug\netcoreapp3.1\S10219524_MyShapeApp.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\bin\Debug\netcoreapp3.1\S10219524_MyShapeApp.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\bin\Debug\netcoreapp3.1\S10219524_MyShapeApp.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\bin\Debug\netcoreapp3.1\S10219524_MyShapeApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\bin\Debug\netcoreapp3.1\S10219524_MyShapeApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\obj\Debug\netcoreapp3.1\S10219524_MyShapeApp.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\obj\Debug\netcoreapp3.1\S10219524_MyShapeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\obj\Debug\netcoreapp3.1\S10219524_MyShapeApp.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\obj\Debug\netcoreapp3.1\S10219524_MyShapeApp.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\obj\Debug\netcoreapp3.1\S10219524_MyShapeApp.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\obj\Debug\netcoreapp3.1\S10219524_MyShapeApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\obj\Debug\netcoreapp3.1\S10219524_MyShapeApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 4\Practical\Week04\S10219524_MyShapeApp\S10219524_MyShapeApp\obj\Debug\netcoreapp3.1\S10219524_MyShapeApp.genruntimeconfig.cache

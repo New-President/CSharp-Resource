@@ -1,0 +1,32 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CopyComplete
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.genruntimeconfig.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CopyComplete
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 12\Practical\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.genruntimeconfig.cache

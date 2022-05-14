@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Rx0GLPLa2Dw8aT2GDpYDajheEoZ0uxXOlgoni8aJ/Icpi7CNPfpYwhfdAanxSKJoWejOWguVb7abNKilBNNw4Q==",
+  "dgSpecHash": "CwxFl2eVe0lZjS3dDQR8enyjHzz924hERYntw1OoScvlK7qXZtLJkQqf/HgdXV9Ese/1pshuT2Y1dXdAVwaMpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ziren\\OneDrive - Ngee Ann Polytechnic\\Desktop\\School\\Y1S2\\PRG2\\ASG\\ASG Test\\ASG Test\\ASG Test.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ziren\\Desktop\\Programming-2-CSharp\\ASG\\ASG Test\\ASG Test\\ASG Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziren\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.3\\microsoft.netcore.app.host.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\ziren\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.3\\microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\ziren\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.3\\microsoft.windowsdesktop.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\ziren\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.3\\microsoft.netcore.app.ref.6.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

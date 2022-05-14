@@ -1,0 +1,19 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\obj\Debug\net5.0\Activity 1.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\obj\Debug\net5.0\Activity 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\obj\Debug\net5.0\Activity 1.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\obj\Debug\net5.0\Activity 1.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\obj\Debug\net5.0\Activity 1.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\bin\Debug\net5.0\Activity 1.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\bin\Debug\net5.0\data(2).csv
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\bin\Debug\net5.0\Activity 1.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\bin\Debug\net5.0\Activity 1.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\bin\Debug\net5.0\Activity 1.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\bin\Debug\net5.0\Activity 1.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\bin\Debug\net5.0\ref\Activity 1.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\bin\Debug\net5.0\Activity 1.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\obj\Debug\net5.0\Activity 1.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\obj\Debug\net5.0\ref\Activity 1.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\obj\Debug\net5.0\Activity 1.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\obj\Debug\net5.0\Activity 1.genruntimeconfig.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\bin\Debug\net5.0\testing.txt
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 1\1b\Activity 1\Activity 1\bin\Debug\net5.0\testmarks.csv

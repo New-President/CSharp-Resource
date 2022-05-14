@@ -1,0 +1,14 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\bin\Debug\netcoreapp3.1\CT.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\bin\Debug\netcoreapp3.1\CT.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\bin\Debug\netcoreapp3.1\CT.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\bin\Debug\netcoreapp3.1\CT.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\bin\Debug\netcoreapp3.1\CT.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\bin\Debug\netcoreapp3.1\CT.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\obj\Debug\netcoreapp3.1\CT.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\obj\Debug\netcoreapp3.1\CT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\obj\Debug\netcoreapp3.1\CT.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\obj\Debug\netcoreapp3.1\CT.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\obj\Debug\netcoreapp3.1\CT.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\obj\Debug\netcoreapp3.1\CT.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\obj\Debug\netcoreapp3.1\CT.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 9\CT\CT\obj\Debug\netcoreapp3.1\CT.genruntimeconfig.cache

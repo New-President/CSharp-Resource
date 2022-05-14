@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ziren\\OneDrive - Ngee Ann Polytechnic\\Desktop\\School\\Y1S2\\PRG2\\ASG\\ASG Test\\ASG Test\\ASG Test.csproj",
+      "projectUniqueName": "C:\\Users\\ziren\\Desktop\\Programming-2-CSharp\\ASG\\ASG Test\\ASG Test\\ASG Test.csproj",
       "projectName": "ASG Test",
-      "projectPath": "C:\\Users\\ziren\\OneDrive - Ngee Ann Polytechnic\\Desktop\\School\\Y1S2\\PRG2\\ASG\\ASG Test\\ASG Test\\ASG Test.csproj",
+      "projectPath": "C:\\Users\\ziren\\Desktop\\Programming-2-CSharp\\ASG\\ASG Test\\ASG Test\\ASG Test.csproj",
       "packagesPath": "C:\\Users\\ziren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ziren\\OneDrive - Ngee Ann Polytechnic\\Desktop\\School\\Y1S2\\PRG2\\ASG\\ASG Test\\ASG Test\\obj\\",
+      "outputPath": "C:\\Users\\ziren\\Desktop\\Programming-2-CSharp\\ASG\\ASG Test\\ASG Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,12 +61,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.3, 6.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.3, 6.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.3, 6.0.3]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.3, 6.0.3]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.3.22179.4\\RuntimeIdentifierGraph.json"
       }
     }
   }

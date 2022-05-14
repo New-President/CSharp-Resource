@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u9oOSWEm48bU/X6MdnqfO1kr2VjYno/ncoLo/ngkTTr+Wehu6Ej288ZfXgzCj/GbVoFAgI4ZtkePHTNxckJxdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ziren\\OneDrive - Ngee Ann Polytechnic\\Desktop\\School\\Y1S2\\PRG2\\Wk 12\\Practical\\CarParkAvailabilityApp\\CarParkAvailabilityApp\\CarParkAvailabilityApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziren\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

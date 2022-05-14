@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-bus_174(7)",
+      "appliesTo": "S10219524_FareCalculatorApp/bus_174(7).csv",
+      "type": "launch"
+    }
+  ]
+}

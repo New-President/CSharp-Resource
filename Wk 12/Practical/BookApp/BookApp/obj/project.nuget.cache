@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RuPB+srKvN29ZuJy+L7ugc1Kb5DFVW9lWQpBOyIj37m9aoTxnwWld1/wqwLWIqrW07clIk0lpyE3wjX40ASPfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ziren\\OneDrive - Ngee Ann Polytechnic\\Desktop\\School\\Y1S2\\PRG2\\Wk 12\\Practical\\BookApp\\BookApp\\BookApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziren\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

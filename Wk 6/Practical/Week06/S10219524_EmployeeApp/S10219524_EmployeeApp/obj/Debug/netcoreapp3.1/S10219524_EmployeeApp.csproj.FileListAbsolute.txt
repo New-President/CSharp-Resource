@@ -1,0 +1,14 @@
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\bin\Debug\netcoreapp3.1\S10219524_EmployeeApp.exe
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\bin\Debug\netcoreapp3.1\S10219524_EmployeeApp.deps.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\bin\Debug\netcoreapp3.1\S10219524_EmployeeApp.runtimeconfig.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\bin\Debug\netcoreapp3.1\S10219524_EmployeeApp.runtimeconfig.dev.json
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\bin\Debug\netcoreapp3.1\S10219524_EmployeeApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\bin\Debug\netcoreapp3.1\S10219524_EmployeeApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\obj\Debug\netcoreapp3.1\S10219524_EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\obj\Debug\netcoreapp3.1\S10219524_EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\obj\Debug\netcoreapp3.1\S10219524_EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\obj\Debug\netcoreapp3.1\S10219524_EmployeeApp.AssemblyInfo.cs
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\obj\Debug\netcoreapp3.1\S10219524_EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\obj\Debug\netcoreapp3.1\S10219524_EmployeeApp.dll
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\obj\Debug\netcoreapp3.1\S10219524_EmployeeApp.pdb
+C:\Users\ziren\OneDrive - Ngee Ann Polytechnic\Desktop\School\Y1S2\PRG2\Wk 6\Practical\Week06\S10219524_EmployeeApp\S10219524_EmployeeApp\obj\Debug\netcoreapp3.1\S10219524_EmployeeApp.genruntimeconfig.cache
